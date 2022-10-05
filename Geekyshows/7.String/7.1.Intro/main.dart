@@ -21,16 +21,4 @@ void main() {
 
   var s2 = "It's a Language";
   print(s2);
-
-  var mstr = '''This is
-Multiline
-String ''';
-
-  print(mstr);
-
-  var mstr2 = """This is
-Multiline
-String """;
-
-  print(mstr2);
 }
