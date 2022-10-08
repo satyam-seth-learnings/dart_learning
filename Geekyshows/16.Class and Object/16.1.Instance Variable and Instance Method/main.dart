@@ -1,4 +1,4 @@
-// Class and Object and Instance Method
+// Instance Variable and Instance Method
 
 /*
 class Class_name{
